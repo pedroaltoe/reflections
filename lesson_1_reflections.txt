@@ -1,0 +1,6 @@
+1. How did viewing a diff between two versions of a file help you see the bug that was introduced?
+    There is no need to look into all the code lines are you comparing with if you have a tool that gives you only what has changed.
+
+
+2. How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+    You can compare versions, see what has changed and check if it is correct or not. You can also follow your improvements.
