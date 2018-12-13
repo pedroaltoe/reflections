@@ -21,3 +21,7 @@
 
 6. How might using version control make you more confident to make changes that could break something?
     If something went wrong you know you can use git to go back to a previous version of that file and it gives you confidence to try.
+
+
+7. Now that you have your workspace set up, what do you want to try using Git for?
+    To keep tracking my changes in my work as iOS developer.
