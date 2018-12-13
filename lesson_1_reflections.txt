@@ -7,5 +7,13 @@
 
 
 3. What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
-   Pros.: you can choose to create commit when it makes sense for you, the commit doesn't need neither to have the same sizer or be done during a certain period.
-   Cons.: you can forget to do the commit.
+    Pros.: you can choose to create commit when it makes sense for you, the commit doesn't need neither to have the same sizer or be done during a certain period.
+    Cons.: you can forget to do the commit.
+
+
+4. Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+    Because one file could be related to the other and affect the project.
+
+
+5. How can you use the commands git log and git diff to view the history of files?
+    You can use git log to find the commit you want and git diff to see the difference between them.
