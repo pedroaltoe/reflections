@@ -17,3 +17,7 @@
 
 5. How can you use the commands git log and git diff to view the history of files?
     You can use git log to find the commit you want and git diff to see the difference between them.
+
+
+6. How might using version control make you more confident to make changes that could break something?
+    If something went wrong you know you can use git to go back to a previous version of that file and it gives you confidence to try.
