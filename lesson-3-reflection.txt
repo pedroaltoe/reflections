@@ -16,3 +16,7 @@
 
 5. How do the diagrams help you visualize the branch structure?
     It allows you to actually see the branches and what was modified and when it was modified.
+
+
+6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+    You will merge all the commits from both branches to one. It is easy to see when the branch was separated and from which branches come the commits.
