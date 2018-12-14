@@ -1,0 +1,2 @@
+1. What happens when you initialise a repository? Why do you need to do it?
+    You create a .git directory to keep tracking the changes you make in your file.
