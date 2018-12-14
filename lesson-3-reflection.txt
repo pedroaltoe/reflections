@@ -1,2 +1,6 @@
 1. What happens when you initialise a repository? Why do you need to do it?
     You create a .git directory to keep tracking the changes you make in your file.
+
+
+2. How is the staging area different from the working directory and the repository? What value do you think it offers?
+    The staging area is in between working directory and the repository, it is important because allows you to add different files to commit.
