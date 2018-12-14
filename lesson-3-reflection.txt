@@ -20,3 +20,7 @@
 
 6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
     You will merge all the commits from both branches to one. It is easy to see when the branch was separated and from which branches come the commits.
+
+
+7. What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+    If git can't automatic merge it means something is wrong so you can fix it. On the other hand if git is able to merge two branches automatically it means everything is fine and the operation was successful and you don't need to worry.
