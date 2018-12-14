@@ -4,3 +4,7 @@
 
 2. How is the staging area different from the working directory and the repository? What value do you think it offers?
     The staging area is in between working directory and the repository, it is important because allows you to add different files to commit.
+
+
+3. How can you use the staging area to make sure you have one commit per logical change?
+    you can check which files are in the staging area using the command git diff --staged and make sure those are the ones you want to commit.
