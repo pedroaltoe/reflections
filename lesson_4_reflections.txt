@@ -8,3 +8,7 @@
 
 3. Describe the differences between forks, clones, and branches. When would you use one instead of another?
     Fork is a copy of a repo on GitHub (from and to). Clone is a copy from GitHub to your local repo or just another copy in your local computer. Branch is another "path" or "way" inside your repo (local or remote) like 'master' or 'origin' with the same goal, keeps tracking your changes.
+
+
+5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+    I would use email, or some kind of storage like dropbox. The problem would be that without git or GitHub is hard to keep tracking the files and the changes specially with more people making different changes at the same time.
